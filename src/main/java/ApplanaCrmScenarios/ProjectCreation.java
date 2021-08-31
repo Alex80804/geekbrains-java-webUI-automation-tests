@@ -1,4 +1,4 @@
-package lesson3.ApplanaCrmScenarios;
+package ApplanaCrmScenarios;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
