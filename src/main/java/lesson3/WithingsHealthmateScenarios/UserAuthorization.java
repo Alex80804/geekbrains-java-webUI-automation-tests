@@ -1,4 +1,4 @@
-package WithingsHealthmateScenarios;
+package lesson3.WithingsHealthmateScenarios;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
